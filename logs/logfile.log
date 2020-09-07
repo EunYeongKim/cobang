@@ -1,0 +1,60 @@
+[INFO ] 2020-05-08 02:12:22.579 [restartedMain] CobangApplication - Starting CobangApplication on eunyeong-MacBook-Pro.local with PID 17104 (/Users/eunyeong/IdeaProjects/cobang/build/classes/java/main started by eunyeong in /Users/eunyeong/IdeaProjects/cobang)
+[INFO ] 2020-05-08 02:12:22.587 [restartedMain] CobangApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-05-08 02:12:22.630 [restartedMain] DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 2020-05-08 02:12:22.630 [restartedMain] DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 2020-05-08 02:12:23.288 [restartedMain] RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+[INFO ] 2020-05-08 02:12:23.306 [restartedMain] RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12ms. Found 0 JDBC repository interfaces.
+[INFO ] 2020-05-08 02:12:23.921 [restartedMain] TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2020-05-08 02:12:23.939 [restartedMain] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-05-08 02:12:23.940 [restartedMain] StandardService - Starting service [Tomcat]
+[INFO ] 2020-05-08 02:12:23.941 [restartedMain] StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+[INFO ] 2020-05-08 02:12:24.035 [restartedMain] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-05-08 02:12:24.036 [restartedMain] ContextLoader - Root WebApplicationContext: initialization completed in 1406 ms
+[INFO ] 2020-05-08 02:12:24.327 [restartedMain] ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-05-08 02:12:24.696 [restartedMain] OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 2020-05-08 02:12:24.719 [restartedMain] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-05-08 02:12:24.753 [restartedMain] TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2020-05-08 02:12:24.756 [restartedMain] CobangApplication - Started CobangApplication in 2.643 seconds (JVM running for 3.747)
+[INFO ] 2020-05-08 02:12:39.965 [SpringContextShutdownHook] ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-05-08 02:12:43.891 [restartedMain] CobangApplication - Starting CobangApplication on eunyeong-MacBook-Pro.local with PID 17106 (/Users/eunyeong/IdeaProjects/cobang/build/classes/java/main started by eunyeong in /Users/eunyeong/IdeaProjects/cobang)
+[INFO ] 2020-05-08 02:12:43.900 [restartedMain] CobangApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-05-08 02:12:43.939 [restartedMain] DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 2020-05-08 02:12:43.940 [restartedMain] DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 2020-05-08 02:12:44.487 [restartedMain] RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+[INFO ] 2020-05-08 02:12:44.508 [restartedMain] RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12ms. Found 0 JDBC repository interfaces.
+[INFO ] 2020-05-08 02:12:44.985 [restartedMain] TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2020-05-08 02:12:44.994 [restartedMain] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-05-08 02:12:44.994 [restartedMain] StandardService - Starting service [Tomcat]
+[INFO ] 2020-05-08 02:12:44.995 [restartedMain] StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+[INFO ] 2020-05-08 02:12:45.103 [restartedMain] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-05-08 02:12:45.103 [restartedMain] ContextLoader - Root WebApplicationContext: initialization completed in 1163 ms
+[INFO ] 2020-05-08 02:12:45.338 [restartedMain] ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-05-08 02:12:45.657 [restartedMain] OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 2020-05-08 02:12:45.682 [restartedMain] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-05-08 02:12:45.714 [restartedMain] TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2020-05-08 02:12:45.718 [restartedMain] CobangApplication - Started CobangApplication in 2.237 seconds (JVM running for 3.371)
+[INFO ] 2020-05-08 02:13:27.987 [http-nio-8080-exec-1] [/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-05-08 02:13:27.988 [http-nio-8080-exec-1] DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-05-08 02:13:27.995 [http-nio-8080-exec-1] DispatcherServlet - Completed initialization in 7 ms
+[INFO ] 2020-05-08 02:16:16.129 [SpringContextShutdownHook] ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-05-08 02:16:20.381 [restartedMain] CobangApplication - Starting CobangApplication on eunyeong-MacBook-Pro.local with PID 17123 (/Users/eunyeong/IdeaProjects/cobang/build/classes/java/main started by eunyeong in /Users/eunyeong/IdeaProjects/cobang)
+[INFO ] 2020-05-08 02:16:20.389 [restartedMain] CobangApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-05-08 02:16:20.440 [restartedMain] DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 2020-05-08 02:16:20.441 [restartedMain] DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 2020-05-08 02:16:21.920 [restartedMain] RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+[INFO ] 2020-05-08 02:16:21.956 [restartedMain] RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 32ms. Found 0 JDBC repository interfaces.
+[INFO ] 2020-05-08 02:16:22.591 [restartedMain] TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2020-05-08 02:16:22.600 [restartedMain] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-05-08 02:16:22.601 [restartedMain] StandardService - Starting service [Tomcat]
+[INFO ] 2020-05-08 02:16:22.604 [restartedMain] StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+[INFO ] 2020-05-08 02:16:22.711 [restartedMain] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-05-08 02:16:22.714 [restartedMain] ContextLoader - Root WebApplicationContext: initialization completed in 2273 ms
+[INFO ] 2020-05-08 02:16:23.116 [restartedMain] ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-05-08 02:16:23.616 [restartedMain] OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 2020-05-08 02:16:23.703 [restartedMain] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-05-08 02:16:23.886 [restartedMain] TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2020-05-08 02:16:23.895 [restartedMain] CobangApplication - Started CobangApplication in 3.959 seconds (JVM running for 4.956)
+[INFO ] 2020-05-08 02:16:28.200 [http-nio-8080-exec-1] [/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-05-08 02:16:28.201 [http-nio-8080-exec-1] DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-05-08 02:16:28.207 [http-nio-8080-exec-1] DispatcherServlet - Completed initialization in 5 ms
+[INFO ] 2020-05-08 02:16:57.259 [SpringContextShutdownHook] ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

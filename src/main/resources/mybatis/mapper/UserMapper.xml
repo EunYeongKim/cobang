@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.example.cobang.mapper.UserMapper">
+    <resultMap id="getUsersResult" type="user">
+        <result property="userId" column="user_id"/>
+        <result property="userKakaoToken" column="user_kakao_token"/>
+        <result property="userName" column="user_name"/>
+        <result property="userCellphone" column="user_cellphone"/>
+        <result property="userBirth" column="user_birth"/>
+    </resultMap>
+    <select id="getUsers" resultType="user" resultMap="getUsersResult">
+        SELECT * FROM USERS;
+  </select>
+</mapper>
